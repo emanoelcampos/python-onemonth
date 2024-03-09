@@ -7,7 +7,7 @@ In Python, whole numbers are called integers and numbers with decimals are calle
 
 - 3 is an integer
 - 3.0 is a float
-- 
+
 You can convert between integers and floats in Python. You can also specify whether you want a float or an integer by wrapping it. 
 
 ### This code is for lesson-14.py, which has been converted to an integer to make it a whole number.
