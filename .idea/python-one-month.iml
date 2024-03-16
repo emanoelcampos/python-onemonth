@@ -10,4 +10,11 @@
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="a457b5a9-3543-4731-aea8-9b6e41bc6803" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/one-month-course/week-4/templates" />
+      </list>
+    </option>
+  </component>
 </module>
