@@ -2,7 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Homepage</title>
+    <title>
+        {% if title=="About" %}
+        About Page | OneMonth.com
+        {% elif title=="Contact" %}
+        Contact Page
+        {% else %}
+        OneMonth.com
+        {% endif %}
+    </title>
 </head>
 <body>
     <a href="/">Homepage</a>
